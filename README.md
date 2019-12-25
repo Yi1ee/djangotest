@@ -1,2 +1,4 @@
 # djangotest
-study django
+study django 
+
+哈哈哈
